@@ -1,0 +1,15 @@
+{
+  "name": "@henryleu/jsonrpc-client",
+  "version": "0.1.0",
+  "description": "json rpc client",
+  "repository": "git@github.com:/henryleu/jsonrpc-client.git",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test"
+  },
+  "author": "henryleu",
+  "license": "ISC",
+  "dependencies": {
+    "jsonrpc-lite": "^2.0.7"
+  }
+}
